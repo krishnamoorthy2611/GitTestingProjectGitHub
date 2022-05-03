@@ -6,6 +6,7 @@ public class Test2 {
 		
 		System.out.println("today is tuesday 03 May 2022");
 		System.out.println("today is tuesday 06 May 2022");
+		System.out.println("today is tuesday 04 May 2022");
 	}
 	
 }
